@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830860485025",
+    "project_id": "lucky-patcher-115c6",
+    "storage_bucket": "lucky-patcher-115c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830860485025:android:3cc8e4af8bdffd26932be0",
+        "android_client_info": {
+          "package_name": "com.lucky2021.walkthrough_luckypatcherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830860485025-4u4us85qefejvgiusibbosg5hisnm3ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEETFsfmE-vK1b6FYFjJD8CwPAIq3ovwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830860485025-4u4us85qefejvgiusibbosg5hisnm3ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
