@@ -68,10 +68,10 @@
       "CPA image": "https://i.snipboard.io/0XJsa3.jpg",
       "CPA URL": "https://smrturl.co/a041404",
 	  
-      "is app suspended": "false",
-      "update title": "A new update for this app",
-      "update message": "Update this app because this version has some isues",
-      "update URL": "com.innersloth.spacemafia"
+      "is app suspended": "true",
+      "update title": "The application is in maintenance condition",
+      "update message": "Visit the official website. for a good time",
+      "update URL": "https://smrturl.co/o/239000/53177516?s1="
     },
     "items": [
       {
