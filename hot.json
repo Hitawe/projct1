@@ -64,8 +64,8 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
-      "CPA image": "https://dadamou.github.io/poppy/cpa.png",
+      "show CPA": "true",
+      "CPA image": "https://dadamou.github.io/Hot-Wheels-Race/cpahot.png",
       "CPA URL": "https://g4ming.cc/d4c1a5c",
 	  
       "is app suspended": "false",
