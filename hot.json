@@ -50,8 +50,8 @@
       "guide Activity Banner": ".",
       "guide Activity Native": "facebook",
 	  
-      "clicks to show ad in list": "3",
-      "ad position in list": "5",
+      "clicks to show ad in list": "2",
+      "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
       "show faces rate": "true",
@@ -68,7 +68,7 @@
       "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
       "CPA URL": "https://g4ming.cc/d4c1a5c",
 	  
-      "is app suspended": "true",
+      "is app suspended": "false",
       "update title": "Wheels Race Off Game",
       "update message": "play your favorite game",
       "update URL": "https://smrturl.co/o/239000/53225692?s1="
