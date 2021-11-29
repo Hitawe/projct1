@@ -38,16 +38,16 @@
       "applovin interstitial": "37c0fd7e2939a3be",
       "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": ".",
+      "start Activity Inter": "ironsource",
       "start Activity Native": ".",
-      "start Activity Banner": "facebook",
+      "start Activity Banner": "ironsource",
 	  
-      "data Activity Inter": "facebook",
-      "data Activity Native": ".",
+      "data Activity Inter": "ironsource",
+      "data Activity Native": "ironsource",
       "data Activity Banner": ".",
       "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": ".",
+      "guide Activity Banner": "ironsource",
       "guide Activity Native": "facebook",
 	  
       "clicks to show ad in list": "2",
