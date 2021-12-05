@@ -22,7 +22,7 @@
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
       "ironsource rewarded": "DefaultRewardedVideo",
-      "ironsource app key": "10418ab31",
+      "ironsource app key": "123dfd5ad",
 	  
       "unity interstitial": "Interstitial_Android",
       "unity banner": "Banner_Android",
@@ -39,16 +39,16 @@
       "applovin rewarded": "6405227d47f8fe55",
 	  
       "start Activity Inter": "ironsource",
-      "start Activity Native": ".",
+      "start Activity Native": "ironsource",
       "start Activity Banner": "ironsource",
 	  
       "data Activity Inter": "ironsource",
       "data Activity Native": "ironsource",
       "data Activity Banner": ".",
-      "data Activity Rewarded": ".",
+      "data Activity Rewarded": "ironsource",
 	  
       "guide Activity Banner": "ironsource",
-      "guide Activity Native": "facebook",
+      "guide Activity Native": "ironsource",
 	  
       "clicks to show ad in list": "2",
       "ad position in list": "4",
@@ -92,7 +92,7 @@
         "title": "Save Fuel for Steep Climbs, Falling Roads, and Stunts",
         "guide": "<p>You get a speed boost when you press and hold the gas pedal, but doing this will also drain your fuel tank faster. Look at the fuel bar at the top of the screen and you will know how quickly the bar decreases when you step on the gas for some time. Try to save as much fuel as possible until you spot a gas refill on your way to the finish line.</p><p><br></p><p>Don&rsquo;t just press the gas pedal every time. Step on the gas while ascending a steep track. Steep tracks make it almost impossible for your vehicle to move up and pressing and holding the accelerator will make the ride much smoother. It will increase your vehicle&rsquo;s speed. Before doing anything else, upgrade your vehicle&rsquo;s (Speed). This will make it easier for you to ascend steep tracks and you will be using less fuel.</p><p><br></p><p>You may also have to press the gas pedal to tilt the vehicle in mid-air so that it lands safely on the track. Light taps on the gas pedal will make it possible for a safe landing in case your vehicle is nose-diving into the track.</p>",
         "guide 2": ".",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "2",
 		
         "show button": "false",
