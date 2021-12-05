@@ -170,7 +170,7 @@
         "title": "My Tips for Hot Wheels Race Off game app won't load or not work properly (loading error/server error/connection error / Screen Freeze / Ping Problem).",
         "guide": "<p>There are a few situations that may cause the load issue in mobile apps.</p><p><br></p><p>The Tips for Hot Wheels Race Off game app server may be down and that is causing the loading issue. Please try after a few minutes.</p><p>Your wifi/mobile data connection not working properly. Please check your data connection.</p><p>Too many users using the app at the same time. Please try after a few minutes.</p>",
         "guide 2": ".",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "8",
 		
         "show button": "false",
@@ -196,7 +196,7 @@
         "title": "Audio/video loading problem with Tips for Hot Wheels Race Off Game.",
         "guide": "<p>Check your phone volume if you have audio problems. Try to use headphones to find out whether it is an issue with your speakers or with the app.</p><p>If you&apos;ve got a video loading problem, please check your internet speed and wifi connectivity.</p>",
         "guide 2": ".",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "10",
 		
         "show button": "false",
@@ -209,7 +209,7 @@
         "title": "Tips for Hot Wheels Race Off game app Notifications are not working properly.",
         "guide": "<p>Go to your Apps-&gt;Tips for Hot Wheels Race Off game-&gt;Notifications and check whether notifications are enabled or not. If it is not enabled, please enable it.</p><p>Also if you don&apos;t get notification alert sounds, re-verify that you don&apos;t accidentally mute the app notification sounds.</p>",
         "guide 2": ".",
-        "VIP": "false",
+        "VIP": "true",
         "ID": "11",
 		
         "show button": "false",
