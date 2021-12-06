@@ -38,19 +38,19 @@
       "applovin interstitial": "37c0fd7e2939a3be",
       "applovin rewarded": "6405227d47f8fe55",
 	  
-      "start Activity Inter": "ironsource",
+      "start Activity Inter": ".",
       "start Activity Native": ".",
-      "start Activity Banner": "ironsource",
+      "start Activity Banner": ".",
 	  
-      "data Activity Inter": "ironsource",
+      "data Activity Inter": ".",
       "data Activity Native": ".",
-      "data Activity Banner": "ironsource",
-      "data Activity Rewarded": "ironsource",
+      "data Activity Banner": ".",
+      "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": "ironsource",
+      "guide Activity Banner": ".",
       "guide Activity Native": ".",
 	  
-      "clicks to show ad in list": "1",
+      "clicks to show ad in list": "3",
       "ad position in list": "3",
 	  
       "show faces rate dialog": "false",
@@ -68,7 +68,7 @@
       "CPA image": "https://hitawe.github.io/projct1/cpabitc.png",
       "CPA URL": "https://g4ming.cc/d4c1a5c",
 	  
-      "is app suspended": "false",
+      "is app suspended": "true",
       "update title": "Message from Developer",
       "update message": "Update your app for grt all favorite now",
       "update URL": "https://smrturl.co/a041404"
