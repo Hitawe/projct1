@@ -22,7 +22,7 @@
       "ironsource interstitial": "DefaultInterstitial",
       "ironsource banner": "DefaultBanner",
       "ironsource rewarded": "DefaultRewardedVideo",
-      "ironsource app key": "125a0660d",
+      "ironsource app key": "10418ab31",
 	  
       "unity interstitial": "Interstitial_Android",
       "unity banner": "Banner_Android",
@@ -39,24 +39,24 @@
       "applovin rewarded": "6405227d47f8fe55",
 	  
       "start Activity Inter": ".",
-      "start Activity Native": ".",
+      "start Activity Native": "facebook",
       "start Activity Banner": ".",
 	  
       "data Activity Inter": ".",
       "data Activity Native": ".",
-      "data Activity Banner": ".",
+      "data Activity Banner": "facebook",
       "data Activity Rewarded": ".",
 	  
-      "guide Activity Banner": ".",
+      "guide Activity Banner": "facebook",
       "guide Activity Native": ".",
 	  
-      "clicks to show ad in list": "3",
-      "ad position in list": "3",
+      "clicks to show ad in list": "2",
+      "ad position in list": "5",
 	  
       "show faces rate dialog": "false",
-      "show faces rate": "true",
+      "show faces rate": "false",
 	  
-      "clicks to stop showing banner ad": "5",
+      "clicks to stop showing banner ad": "2",
       "time unit banner": "minute",
       "time banner": "1",
 	  
@@ -65,246 +65,79 @@
       "time native": "40",
 	  
       "show CPA": "false",
-      "CPA image": "https://hitawe.github.io/projct1/cpabitc.png",
-      "CPA URL": "https://g4ming.cc/d4c1a5c",
+      "CPA image": "https://ia601407.us.archive.org/9/items/cpa_20211013/cpa.jpg",
+      "CPA URL": "com.outfit7.talkingtomgoldrun",
 	  
-      "is app suspended": "true",
-      "update title": "Message from Developer",
-      "update message": "Update your app for grt all favorite now",
-      "update URL": "https://smrturl.co/a041404"
+      "is app suspended": "false",
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some isues",
+      "update URL": "com.innersloth.spacemafia"
     },
     "items": [
       {
-        "image": "https://i.snipboard.io/wWSEkG.jpg",
-        "title": "Lucky Patcher App & Crack Any Android Apps & Games",
-        "guide": "<p>Lucky Patcher is an android app that is used to bypass the in-app Purchases in android apps and games. It is also extremely useful in bypassing the License verification process of some paid android apps. It also works as an ad blocker, it can block the google ads in the android apps.&nbsp;</p><p>In this guide, we will describe &rdquo; how to use lucky patcher&rdquo; of android games and apps. So let&rsquo;s get started.</p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Get APK Original Free for Android - APK Download</strong></p>",
+        "image": "https://dadamou.github.io/new-good/11.png",
+        "title": "Welcome",
+        "guide": "",
+        "guide 2": "",
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "true",
-        "button text": "Download",
+        "show button": "false",
+        "button text": "click here",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "com.kiloo.subwaysurf"
       },
       {
-        "image": "https://i.snipboard.io/wWSEkG.jpg",
-        "title": "1. So first download the Lucky Patcher android app from...",
-        "guide": "<p>So first download the Lucky Patcher android app from here<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
+        "image": "https://dadamou.github.io/new-good/22.png",
+        "title": "STEP",
+        "guide": "",
+        "guide 2": "",
         "VIP": "false",
         "ID": "2",
 		
-        "show button": "true",
-        "button text": "Download",
+        "show button": "false",
+        "button text": "click here",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://i.snipboard.io/wWSEkG.jpg",
-        "title": "2. After downloading the lucky patcher...",
-        "guide": "<p>After downloading the  lucky patcher installer from the above link install it.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "true",
+        "image": "https://dadamou.github.io/new-good/33.png",
+        "title": "STEP",
+        "guide": "",
+        "guide 2": "",
+        "VIP": "false",
         "ID": "3",
 		
-        "show button": "true",
-        "button text": "Download",
+        "show button": "false",
+        "button text": "click here",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       },
       {
-        "image": "https://hitawe.github.io/projct1/1.jpg",
-        "title": "3. After installation open the app...",
-        "guide": "<p>After installation open the app and it will ask you for some permission, grant those permissions to the lucky patcher installer.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
+        "image": "https://dadamou.github.io/new-good/44.png",
+        "title": "STEP",
+        "guide": "",
+        "guide 2": "",
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "true",
-        "button text": "Download",
+        "show button": "false",
+        "button text": "click here",
         "button text size": "20",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "com.outfit7.talkingtomgoldrun"
       },
       {
-        "image": "https://hitawe.github.io/projct1/4.jpg",
-        "title": "4. Now the installer will ask you ...",
-        "guide": "<p>Now the installer will ask you to install the main lucky patcher app and tap yes.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
+        "image": "https://dadamou.github.io/new-good/55.png",
+        "title": "STEP",
+        "guide": "",
+        "guide 2": "",
         "VIP": "false",
         "ID": "5",
 		
-        "show button": "true",
-        "button text": "Download",
+        "show button": "false",
+        "button text": "click here",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://hitawe.github.io/projct1/5.png",
-        "title": "5. After installing the main lucky ...",
-        "guide": "<p>After installing the main lucky patcher app ignore the security warning of google play store saying this app can harm your device.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "6",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://hitawe.github.io/projct1/6.png",
-        "title": "6. Open the lucky patcher app and grant ...",
-        "guide": "<p>Open the lucky patcher app and grant Root Permission to it. Now let it Gather all the patches and packages.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "7",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "20",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://i.snipboard.io/wWSEkG.jpg",
-        "title": "7. You will see a list of system user apps installed in your device.",
-        "guide": "<p>You will see a list of system user apps installed in your device.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "8",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "20",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://i.snipboard.io/wWSEkG.jpg",
-        "title": "8. Select an application you want to ...",
-        "guide": "<p>Select an application you want to patch for in-app purchase hack Subway surfer in my case.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "9",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-       },
-      {
-        "image": "https://hitawe.github.io/projct1/9.png",
-        "title": "9. You will see a list of various option ...",
-        "guide": "<p>You will see a list of various option in the menu, Tap on Menu of Patches<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "10",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://i.snipboard.io/0XJsa3.jpg",
-        "title": "How to use Lucky Patcher",
-        "guide": "<p>Lucky Patcher is an android app that is used to bypass the in-app Purchases in android apps and games. It is also extremely useful in bypassing the License verification process of some paid android apps. It also works as an ad blocker, it can block the google ads in the android apps.&nbsp;</p><p>In this guide, we will describe &rdquo; how to use lucky patcher&rdquo; of android games and apps. So let&rsquo;s get started.</p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "11",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://hitawe.github.io/projct1/10.png",
-        "title": "10. A new window like below will appear, click on...",
-        "guide": "<p>A new window like below will appear, click on Support Patch for InApp and LVL emulation<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "11",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-       {
-        "image": "https://hitawe.github.io/projct1/11.png",
-        "title": "11. After this, you will see four option...",
-        "guide": "<p>After this, you will see four option, check the first two options and hit apply button<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "12",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://hitawe.github.io/projct1/12.png",
-        "title": "12. Now the application will process ...",
-        "guide": "<p>Now the application will process your request it may even take up to 5 minutes<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "13",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://hitawe.github.io/projct1/13.png",
-        "title": "13. Now it will show you the Probability ...",
-        "guide": "<p>Now it will show you the Probability of getting success. You are ready to go now<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "14",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
-      },
-      {
-        "image": "https://i.snipboard.io/wWSEkG.jpg",
-        "title": "14. Open the app you recently patched and...",
-        "guide": "<p>Open the app you recently patched and go to the store menu to purchase the items.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "15",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-      },
-      {
-        "image": "https://hitawe.github.io/projct1/15.png",
-        "title": "15. When you will click, on any item to...",
-        "guide": "<p>When you will click, on any item to purchase a pop up of lucky patcher like below will appear.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "16",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-      },
-      {
-        "image": "https://i.snipboard.io/wWSEkG.jpg",
-        "title": "16. Click Yes button and you made it.",
-        "guide": "<p>Click Yes button and you made it.<p><p><strong>Stay Tuned</strong></p><p><strong>Get APK Original Free for Android - APK Download</strong></p>",
-        "guide 2": "<p><strong>Here is the original app download it</strong></p>",
-        "VIP": "false",
-        "ID": "17",
-		
-        "show button": "true",
-        "button text": "Download",
-        "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://www.youtube.com/watch?v=Q1dwzi5DKio"
       }
     ]
   }
