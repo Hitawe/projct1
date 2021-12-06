@@ -44,19 +44,19 @@
 	  
       "data Activity Inter": "ironsource",
       "data Activity Native": ".",
-      "data Activity Banner": "facebook",
-      "data Activity Rewarded": ".",
+      "data Activity Banner": "ironsource",
+      "data Activity Rewarded": "ironsource",
 	  
-      "guide Activity Banner": "facebook",
+      "guide Activity Banner": "ironsource",
       "guide Activity Native": ".",
 	  
-      "clicks to show ad in list": "2",
+      "clicks to show ad in list": "1",
       "ad position in list": "3",
 	  
       "show faces rate dialog": "false",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "2",
+      "clicks to stop showing banner ad": "5",
       "time unit banner": "minute",
       "time banner": "1",
 	  
