@@ -56,7 +56,7 @@
       "show faces rate dialog": "false",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "5",
+      "clicks to stop showing banner ad": "10",
       "time unit banner": "minute",
       "time banner": "1",
 	  
