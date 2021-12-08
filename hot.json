@@ -40,23 +40,23 @@
 	  
       "start Activity Inter": "ironsource",
       "start Activity Native": ".",
-      "start Activity Banner": "unity",
+      "start Activity Banner": "ironsource",
 	  
       "data Activity Inter": "ironsource",
       "data Activity Native": ".",
-      "data Activity Banner": "unity",
+      "data Activity Banner": "ironsource",
       "data Activity Rewarded": "ironsource",
 	  
-      "guide Activity Banner": "unity",
+      "guide Activity Banner": "ironsource",
       "guide Activity Native": ".",
 	  
-      "clicks to show ad in list": "1",
+      "clicks to show ad in list": "2",
       "ad position in list": "4",
 	  
       "show faces rate dialog": "false",
       "show faces rate": "true",
 	  
-      "clicks to stop showing banner ad": "10",
+      "clicks to stop showing banner ad": "2",
       "time unit banner": "minute",
       "time banner": "1",
 	  
@@ -64,9 +64,9 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "false",
+      "show CPA": "true",
       "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
-      "CPA URL": "https://g4ming.cc/d4c1a5c",
+      "CPA URL": "https://smrturl.co/a041404",
 	  
       "is app suspended": "false",
       "update title": "Wheels Race Off Game",
@@ -82,7 +82,7 @@
         "VIP": "false",
         "ID": "1",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download ",
         "button text size": "20",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -95,7 +95,7 @@
         "VIP": "true",
         "ID": "2",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -108,7 +108,7 @@
         "VIP": "false",
         "ID": "3",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -121,7 +121,7 @@
         "VIP": "false",
         "ID": "4",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -134,7 +134,7 @@
         "VIP": "false",
         "ID": "5",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "20",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -147,7 +147,7 @@
         "VIP": "false",
         "ID": "6",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -160,7 +160,7 @@
         "VIP": "false",
         "ID": "7",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "20",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -173,7 +173,7 @@
         "VIP": "true",
         "ID": "8",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -186,7 +186,7 @@
         "VIP": "false",
         "ID": "9",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -199,7 +199,7 @@
         "VIP": "true",
         "ID": "10",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
@@ -212,7 +212,7 @@
         "VIP": "true",
         "ID": "11",
 		
-        "show button": "false",
+        "show button": "true",
         "button text": "Download",
         "button text size": "17",
         "button URL": "https://g4ming.cc/d4c1a5c"
