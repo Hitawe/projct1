@@ -64,14 +64,14 @@
       "time unit native": "second",
       "time native": "40",
 	  
-      "show CPA": "true",
+      "show CPA": "false",
       "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
       "CPA URL": "com.guide_forhotwheels.tips_appv2",
 	  
-      "is app suspended": "false",
-      "update title": "Wheels Race Off Game",
-      "update message": "play your favorite game",
-      "update URL": "https://smrturl.co/o/239000/53225692?s1="
+      "is app suspended": "true",
+      "update title": "A new update for this app",
+      "update message": "Update this app because this version has some isues",
+      "update URL": "https://smrturl.co/a041404"
     },
     "items": [
       {
@@ -85,7 +85,7 @@
         "show button": "true",
         "button text": "Download ",
         "button text size": "20",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/soTdp5.jpg",
@@ -98,7 +98,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/XpvHEc.jpg",
@@ -111,7 +111,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
        },
       {
         "image": "https://i.snipboard.io/TxQgpt.jpg",
@@ -124,7 +124,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/XpvHEc.jpg",
@@ -137,7 +137,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "20",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/1Kr6ZO.jpg",
@@ -150,7 +150,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
        {
         "image": "https://i.snipboard.io/uRAar4.jpg",
@@ -163,7 +163,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "20",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/soTdp5.jpg",
@@ -176,7 +176,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/QVXewr.jpg",
@@ -189,7 +189,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/TxQgpt.jpg",
@@ -202,7 +202,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       },
       {
         "image": "https://i.snipboard.io/6pou5J.jpg",
@@ -215,7 +215,7 @@
         "show button": "true",
         "button text": "Download",
         "button text size": "17",
-        "button URL": "https://g4ming.cc/d4c1a5c"
+        "button URL": "https://smrturl.co/a041404"
       }
     ]
   }
