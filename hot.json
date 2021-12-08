@@ -40,7 +40,7 @@
 	  
       "start Activity Inter": "ironsource",
       "start Activity Native": ".",
-      "start Activity Banner": "ironsource",
+      "start Activity Banner": "applovin",
 	  
       "data Activity Inter": "ironsource",
       "data Activity Native": ".",
@@ -66,7 +66,7 @@
 	  
       "show CPA": "true",
       "CPA image": "https://hitawe.github.io/projct1/cpahot.png",
-      "CPA URL": "https://smrturl.co/a041404",
+      "CPA URL": "com.guide_forhotwheels.tips_appv2",
 	  
       "is app suspended": "false",
       "update title": "Wheels Race Off Game",
